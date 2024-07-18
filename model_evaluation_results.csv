@@ -1,0 +1,9 @@
+Model,Test accuracy,Test precision
+logistic_regression_classifier_word2vec,0.9840448469167745,0.9875518672199171
+y_pred_decision_tree_word2vec,0.9762828805519621,0.9648173207036536
+y_pred_logistic_regression_doc2vec,0.9573091849935317,0.9434482758620689
+decision_tree_classifier_doc2vec,0.8378611470461406,0.7293233082706767
+logistic_regression_classifier_BOW,0.9948253557567918,0.994579945799458
+decision_tree_classifier_BOW,0.9784389823199655,0.9650537634408602
+logistic_regression_classifier_TFIDF,0.9823199655023717,0.9929676511954993
+decision_tree_classifier_TFIDF,0.9823199655023717,0.9704697986577181
